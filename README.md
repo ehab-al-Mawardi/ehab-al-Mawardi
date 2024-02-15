@@ -1,7 +1,8 @@
 <center>💫 Software Engineering:</center>
-<center>It's not easy but it deserve fighting for</center><br>
-<center>EGYPTIAN PROGRAMMER PHAROAH</center> <br>
+<center>💫 It's not easy but it deserve fighting for</center><br>
+<center>💫 EGYPTIAN PROGRAMMER PHAROAH</center> <br>
 
+![479cabbd9da09c9b2a7374ac9a2846f1](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/7c17e740-4773-4b61-8769-64c0c8778d7e)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ealmawardid200) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DisregardingTheWorld) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/razzux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ehab-al-mawardi) 
