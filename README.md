@@ -21,7 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ehab-al-Mawardi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![87f3f1425b217691da645e97dbb50d55](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/6040db63-11d6-4d25-8721-f473bf3b96a7)
+![fead21862d5150d40c41390b16e52bb5](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/1a6c2074-3ceb-4b1e-9895-ee75f95af587)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -33,4 +34,5 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/EhabAlmawardi) 
 
 
-![fead21862d5150d40c41390b16e52bb5](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/1a6c2074-3ceb-4b1e-9895-ee75f95af587)
+![87f3f1425b217691da645e97dbb50d55](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/6040db63-11d6-4d25-8721-f473bf3b96a7)
+
