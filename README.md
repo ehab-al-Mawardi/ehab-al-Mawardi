@@ -1,5 +1,5 @@
-# 💫 About Me:
-Software Engineer<br>
+# 💫 Software Engineering:
+It's not easy but it deserve fighting for<br>
 
 
 ## 🌐 Socials:
