@@ -1,7 +1,8 @@
 # 💫 Software Engineering:
 It's not easy but it deserve fighting for<br>
 
-![Uploading coding-kira.gif…]()
+
+![coding-kira](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/73f37a76-e65e-47e6-877e-e6031517052c)
 
 
 ## 🌐 Socials:
