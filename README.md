@@ -1,6 +1,7 @@
-# 💫 Software Engineering:
-It's not easy but it deserve fighting for<br>
-EGYPTIAN PROGRAMMER PHAROAH 
+<center>💫 Software Engineering:</center>
+<center>It's not easy but it deserve fighting for</center><br>
+<center>EGYPTIAN PROGRAMMER PHAROAH</center> <br>
+
 ![nft](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/c93e286e-3601-4948-a13c-3ad37b249a76)
 
 
