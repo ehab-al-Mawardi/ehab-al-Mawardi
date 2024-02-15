@@ -1,4 +1,4 @@
-![87f3f1425b217691da645e97dbb50d55](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/a9c9acf8-b0c0-4e01-a175-eff4eb5c208a)# 💫 Software Engineering:
+# 💫 Software Engineering:
 It's not easy but it deserve fighting for<br>
 
 ![fead21862d5150d40c41390b16e52bb5](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/1a6c2074-3ceb-4b1e-9895-ee75f95af587)
