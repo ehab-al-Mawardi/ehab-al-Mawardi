@@ -1,5 +1,5 @@
 <center>💫 Software Engineering:</center><br>
-<center>💫 EGYPTIAN PROGRAMMER PHAROAH</center> <br>
+<center>💫 EGYPTIAN PROGRAMMER</center> <br>
 
 ![479cabbd9da09c9b2a7374ac9a2846f1](https://github.com/ehab-al-Mawardi/ehab-al-Mawardi/assets/75522554/7c17e740-4773-4b61-8769-64c0c8778d7e)
 
